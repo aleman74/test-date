@@ -1,0 +1,19 @@
+{
+  "name": "test-date",
+  "version": "1.0.0",
+  "description": "Test work with date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleman74/test-date.git"
+  },
+  "author": "aleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleman74/test-date/issues"
+  },
+  "homepage": "https://github.com/aleman74/test-date#readme"
+}
